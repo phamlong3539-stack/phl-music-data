@@ -1,0 +1,12 @@
+{
+  "youtube_enabled": true,
+  "youtube_locked_message": "Tính năng YouTube tạm thời bị Admin đóng để bảo trì. Liên hệ Zalo: 0522608620 để mở khóa!",
+  "kill_switch": false,
+  "announcement": {
+    "show": false,
+    "id": "tb_01",
+    "title": "👑 THÔNG BÁO TỪ ADMIN",
+    "message": "Chào mừng bạn đã cài đặt bản nhạc VIP!",
+    "link": "https://phamlong09.store"
+  }
+}
