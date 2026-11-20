@@ -1,25 +1,23 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "songs": [
     {
+      "id": "song_001",
       "title": "🎵 Tinh Vệ Remix",
+      "artist": "Đang cập nhật",
       "url": "https://raw.githubusercontent.com/phamlong3539-stack/phl-music-data/main/music/Tinhve.mp3"
     },
     {
+      "id": "song_002",
       "title": "🔥 Lặng Remix",
+      "artist": "Đang cập nhật",
       "url": "https://raw.githubusercontent.com/phamlong3539-stack/phl-music-data/main/music/lang.m4a"
     },
     {
+      "id": "song_003",
       "title": "🎧 Tỳ Bà Khúc",
+      "artist": "Đang cập nhật",
       "url": "https://raw.githubusercontent.com/phamlong3539-stack/phl-music-data/main/music/tybakhuc.m4a"
-    },
-    {
-      "title": "⚡ Vinahouse Bay Phòng",
-      "url": "https://raw.githubusercontent.com/phamlong3539-stack/phl-music-data/main/music/song4.mp3"
-    },
-    {
-      "title": "☕ Nhạc Lofi Chill Buổi Tối",
-      "url": "https://raw.githubusercontent.com/phamlong3539-stack/phl-music-data/main/music/song5.mp3"
     }
   ]
 }
