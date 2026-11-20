@@ -19,15 +19,15 @@
   },
   "audio_engine": {
     "max_gain": 3.0,
-    "bass_boost": true
+    "bass_boost": false
   },
   "vip_featured_song": {
-    "enabled": false,
+    "enabled": true,
     "title": "⭐ [HOT TREND] Tinh Vệ Remix VIP",
     "url": "https://raw.githubusercontent.com/phamlong3539-stack/phl-music-data/main/music/Tinhve.mp3"
   },
   "youtube_module": {
-    "enabled": false,
+    "enabled": true,
     "home_url": "https://m.youtube.com",
     "locked_reason": "Tính năng YouTube đang bảo trì hạ tầng."
   },
