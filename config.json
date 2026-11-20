@@ -12,7 +12,7 @@
   },
   "branding": {
     "header_title": "👑 PHẠM LONG • AUDIO PRO",
-    "ticker_announcement": "⚡ ĐÃ KÍCH HOẠT ⚡",
+    "ticker_announcement": "⚡ MASTER HI-RES AUDIO • ZERO LATENCY ⚡",
     "admin_button_text": "💬 LIÊN HỆ TELEGRAM ADMIN",
     "admin_button_url": "https://t.me/PHL0990",
     "footer_copyright": "BẢN QUYỀN ĐỘC QUYỀN PHẠM LONG\nZALO: 0522608620 • TELEGRAM: @PHL0990"
@@ -29,15 +29,14 @@
   "youtube_module": {
     "enabled": true,
     "home_url": "https://m.youtube.com",
-    "locked_reason": "Tính năng YouTube đang nâng cấp hạ tầng Cloud. Vui lòng liên hệ Admin!"
+    "locked_reason": "Tính năng YouTube đang bảo trì hạ tầng."
   },
   "announcement": {
     "show": true,
-    "id": "tb_010",
-    "title": "👑 ĐẶC QUYỀN MASTER VIP",
-    "message": "Toàn bộ quảng cáo và thành phần rác đã được xóa sổ hoàn toàn!",
-    "button_title": "Thưởng thức",
+    "id": "tb_012_active",
+    "title": "👑 THÔNG BÁO TỪ ADMIN",
+    "message": "Chào mừng bạn quay trở lại! Hệ thống âm thanh Master VIP không độ trễ đã sẵn sàng phục vụ.",
+    "button_title": "Bắt đầu nghe",
     "action_url": "https://phamlong09.store"
   }
 }
-
