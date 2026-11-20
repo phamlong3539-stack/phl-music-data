@@ -32,10 +32,10 @@
     "locked_reason": "Tính năng YouTube đang nâng cấp hạ tầng Cloud. Vui lòng liên hệ Admin!"
   },
   "announcement": {
-    "show": true,
-    "id": "tb_03",
+    "show": false,
+    "id": "tb_02",
     "title": "👑 ĐẶC QUYỀN MASTER VIP",
-    "message": "Toàn bộ quảng cáo và thành phần rác đã được xóa sổ hoàn toàn!z",
+    "message": "Toàn bộ quảng cáo và thành phần rác đã được xóa sổ hoàn toàn!",
     "button_title": "Thưởng thức",
     "action_url": "https://phamlong09.store"
   }
