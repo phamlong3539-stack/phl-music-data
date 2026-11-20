@@ -19,7 +19,7 @@
   },
   "audio_engine": {
     "max_gain": 3.0,
-    "bass_boost": false
+    "bass_boost": true
   },
   "vip_featured_song": {
     "enabled": true,
