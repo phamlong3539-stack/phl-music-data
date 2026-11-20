@@ -12,7 +12,7 @@
   },
   "branding": {
     "header_title": "👑 PHẠM LONG • AUDIO PRO",
-    "ticker_announcement": "⚡ MASTER HI-RES AUDIOY ⚡",
+    "ticker_announcement": "⚡ MASTER HI-RES AUDIO • ZERO LATENCY ⚡",
     "admin_button_text": "💬 LIÊN HỆ TELEGRAM ADMIN",
     "admin_button_url": "https://t.me/PHL0990",
     "footer_copyright": "BẢN QUYỀN ĐỘC QUYỀN PHẠM LONG\nZALO: 0522608620 • TELEGRAM: @PHL0990"
@@ -28,7 +28,7 @@
   },
   "youtube_module": {
     "enabled": true,
-    "home_url": "https://m.youtube.com",
+    "home_url": "https://m.youtube.com/feed/music",
     "locked_reason": "Tính năng YouTube đang bảo trì hạ tầng."
   },
   "announcement": {
