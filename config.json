@@ -28,7 +28,7 @@
   },
   "youtube_module": {
     "enabled": true,
-    "home_url": "https://m.youtube.com/feed/music",
+    "home_url": "https://m.youtube.com",
     "locked_reason": "Tính năng YouTube đang bảo trì hạ tầng."
   },
   "announcement": {
