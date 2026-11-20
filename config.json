@@ -41,13 +41,3 @@
   }
 }
 
-#Tắt sạch toàn bộ Tweak khẩn cấp: Đổi "kill_switch": true (ngược lại: false).
-#Đổi icon nút tròn nổi: Đổi "floating_icon": "💎" (hoặc ⚡, 🔥, 🎧).
-#Nút nổi thở phát sáng: Đổi "floating_pulse_glow": true (hoặc false để đứng yên).
-#Khóa YouTube: Đổi "youtube_module" ➔ "enabled": false (ngược lại: true).
-#Đổi câu báo khi khóa YouTube: Sửa chữ ở "locked_reason".
-#Kích âm lượng lên 300%: Đổi "max_gain": 3.0 (hoặc 2.0 cho 200%).
-#Ghim bài hát hot lên đầu danh sách: Bật "vip_featured_song" ➔ "enabled": true, điền tên vào "title" và link nhạc vào "url".
-#Bắn thông báo Popup ra màn hình: Bật "announcement" ➔ "show": true, gõ nội dung vào "message", và đổi chữ "id": "tb_02" (đổi số để máy khách chịu hiện).
-#Đổi link Telegram/Zalo Admin: Dán link của con vào "admin_button_url".
-#Đổi màu viền Menu: Sửa mã màu ở "neon_border_color": "#00F5FF" (ví dụ: #FF007F = Hồng, #FFD700 = Vàng).
