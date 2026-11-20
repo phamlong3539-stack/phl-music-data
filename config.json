@@ -32,7 +32,7 @@
     "locked_reason": "Tính năng YouTube đang nâng cấp hạ tầng Cloud. Vui lòng liên hệ Admin!"
   },
   "announcement": {
-    "show": true,
+    "show": false,
     "id": "tb_02",
     "title": "👑 ĐẶC QUYỀN MASTER VIP",
     "message": "Toàn bộ quảng cáo và thành phần rác đã được xóa sổ hoàn toàn!",
