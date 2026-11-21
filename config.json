@@ -23,8 +23,8 @@
   },
   "vip_featured_song": {
     "enabled": true,
-    "title": "Tinh Vệ Remix",
-    "url": "https://raw.githubusercontent.com/phamlong3539-stack/phl-music-data/main/music/Tinhve.mp3"
+    "title": "Tỳ Bà Khúc",
+    "url": "https://raw.githubusercontent.com/phamlong3539-stack/phl-music-data/main/music/tybakhuc.m4a"
   },
   "youtube_module": {
     "enabled": true,
