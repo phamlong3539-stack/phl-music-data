@@ -23,7 +23,7 @@
   },
   "vip_featured_song": {
     "enabled": true,
-    "title": "⭐ [HOT TREND] Tinh Vệ Remix VIP",
+    "title": "⭐ [HOT TREND] Tinh Vệ Remix",
     "url": "https://raw.githubusercontent.com/phamlong3539-stack/phl-music-data/main/music/Tinhve.mp3"
   },
   "youtube_module": {
@@ -35,7 +35,7 @@
     "show": true,
     "id": "tb_012_active",
     "title": "👑 THÔNG BÁO TỪ ADMIN",
-    "message": "Chào mừng bạn quay trở lại! Hệ thống âm thanh Master VIP không độ trễ đã sẵn sàng phục vụ.",
+    "message": "Chào mừng bạn quay trở lại! Hệ thống nhạc chuyên nghiệp sẵn sàng phục vụ",
     "button_title": "Bắt đầu nghe",
     "action_url": "https://phamlong09.store"
   }
