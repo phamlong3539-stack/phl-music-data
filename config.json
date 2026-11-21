@@ -1,7 +1,7 @@
 {
   "system_control": {
-    "kill_switch": true,
-    "floating_icon": "👑",
+    "kill_switch": false,
+    "floating_icon": "❤️‍🔥",
     "floating_pulse_glow": true
   },
   "theme_customizer": {
