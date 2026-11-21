@@ -2,7 +2,7 @@
   "system_control": {
     "kill_switch": false,
     "floating_icon": "❤️‍🔥",
-    "floating_pulse_glow": false
+    "floating_pulse_glow": true
   },
   "theme_customizer": {
     "neon_border_color": "#00F5FF",
@@ -19,7 +19,7 @@
   },
   "audio_engine": {
     "max_gain": 3.0,
-    "bass_boost": false
+    "bass_boost": true
   },
   "vip_featured_song": {
     "enabled": true,
