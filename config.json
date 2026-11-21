@@ -2,7 +2,7 @@
   "system_control": {
     "kill_switch": false,
     "floating_icon": "❤️‍🔥",
-    "floating_pulse_glow": true
+    "floating_pulse_glow": false
   },
   "theme_customizer": {
     "neon_border_color": "#00F5FF",
