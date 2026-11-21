@@ -27,7 +27,7 @@
     "url": "https://raw.githubusercontent.com/phamlong3539-stack/phl-music-data/main/music/Tinhve.mp3"
   },
   "youtube_module": {
-    "enabled": false,
+    "enabled": true,
     "home_url": "https://m.youtube.com",
     "locked_reason": "Tính năng YouTube đang bảo trì hạ tầng."
   },
