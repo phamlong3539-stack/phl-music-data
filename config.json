@@ -27,7 +27,7 @@
     "url": "https://raw.githubusercontent.com/phamlong3539-stack/phl-music-data/main/music/tybakhuc.m4a"
   },
   "youtube_module": {
-    "enabled": false,
+    "enabled": true,
     "home_url": "https://m.youtube.com",
     "locked_reason": "Tính năng YouTube đang bảo trì hạ tầng."
   },
@@ -35,7 +35,7 @@
     "show": true,
     "id": "tb_012_active",
     "title": "👑 THÔNG BÁO TỪ ADMIN",
-    "message": "Chào mừng bạn quay trở lại! Hệ thống nhạc chuyên nghiệp sẵn sàng phục vụ",
+    "message": "Chào mừng bạn quay trở lại! Hệ thống PHẠM LONG nhạc chuyên nghiệp sẵn sàng phục vụ",
     "button_title": "Bắt đầu nghe",
     "action_url": "https://phamlong09.store"
   }
