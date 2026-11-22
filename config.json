@@ -4,11 +4,11 @@
     "floating_icon": "❤️‍🔥",
     "floating_pulse_glow": true
   },
-    "theme_customizer": {
-    "neon_border_color": "#FF66C4",
-    "gradient_start_color": "#2E0820",
-    "gradient_mid_color": "#4D0F36",
-    "gradient_end_color": "#12020C"
+      "theme_customizer": {
+    "neon_border_color": "#FF85C0",
+    "gradient_start_color": "#59183E",
+    "gradient_mid_color": "#8C2763",
+    "gradient_end_color": "#26081A"
   },
   "branding": {
     "header_title": "👑 PHẠM LONG • AUDIO PRO",
