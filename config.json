@@ -4,11 +4,11 @@
     "floating_icon": "❤️‍🔥",
     "floating_pulse_glow": true
   },
-      "theme_customizer": {
-    "neon_border_color": "#FF85C0",
-    "gradient_start_color": "#59183E",
-    "gradient_mid_color": "#8C2763",
-    "gradient_end_color": "#26081A"
+  "theme_customizer": {
+    "neon_border_color": "#00F5FF",
+    "gradient_start_color": "#120024",
+    "gradient_mid_color": "#260642",
+    "gradient_end_color": "#050010"
   },
   "branding": {
     "header_title": "👑 PHẠM LONG • AUDIO PRO",
@@ -27,7 +27,7 @@
     "url": "https://raw.githubusercontent.com/phamlong3539-stack/phl-music-data/main/music/tybakhuc.m4a"
   },
   "youtube_module": {
-    "enabled": false,
+    "enabled": true,
     "home_url": "https://m.youtube.com",
     "locked_reason": "Bình Tĩnh Đi Pro Tính Năng YouTube Đang Bảo Trì Hạ Tầng."
   },
