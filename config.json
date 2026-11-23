@@ -22,7 +22,7 @@
     "bass_boost": false
   },
   "vip_featured_song": {
-    "enabled": true,
+    "enabled": false,
     "title": "Tỳ Bà Khúc",
     "url": "https://raw.githubusercontent.com/phamlong3539-stack/phl-music-data/main/music/tybakhuc.m4a"
   },
