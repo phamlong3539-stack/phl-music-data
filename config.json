@@ -1,6 +1,6 @@
 {
   "system_control": {
-    "kill_switch": true,
+    "kill_switch": false,
     "floating_icon": "❤️‍🔥",
     "floating_pulse_glow": true
   },
@@ -27,7 +27,7 @@
     "url": "https://drive.google.com/uc?export=download&id=1xDXL1fm00Tyi5C465N-xbD205J8W9j4P"
   },
   "youtube_module": {
-    "enabled": true,
+    "enabled": false,
     "home_url": "https://m.youtube.com",
     "locked_reason": "Bình Tĩnh Đi Pro Tính Năng YouTube Đang Bảo Trì Hạ Tầng."
   },
